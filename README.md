@@ -12,14 +12,14 @@ I enjoy learning new technologies, solving practical problems, and turning ideas
 - Website design and development
 - WordPress projects
 - Learning modern front-end development
-- Exploring full-stack development
+- Full-stack development
 
 ## 🛠️ Technologies
 
 - HTML
 - CSS
 - JavaScript
-- React (Learning)
+- React 
 - Python (Learning)
 - WordPress
 - Git & GitHub (Learning)
@@ -27,7 +27,6 @@ I enjoy learning new technologies, solving practical problems, and turning ideas
 ## 💻 Projects
 
 - **Sindh Form Fill** — Web-based service platform project.
-- **CaptionMint** — AI-powered caption generation application.
 
 ## 🎯 Current Learning Goals
 
